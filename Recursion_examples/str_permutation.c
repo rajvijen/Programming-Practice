@@ -26,7 +26,7 @@ void permutation(char *s, int i, int n)
   }
  }
 }
-/*
+/*same
 void permutation(char *s, int begin, int end)
 { 
 //int j;
